@@ -243,3 +243,4 @@ if __name__ == "__main__":
     outFN = 'OutputData.txt'
     trMemToTriangleFile(trCol, trMem, outFN)
 # **** end  Test ****
+# Hello 
